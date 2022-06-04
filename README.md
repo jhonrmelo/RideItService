@@ -1,2 +1,2 @@
-# TccUnip2021
+# RideIt
 Repositório contendo o back-end do projeto RideIt, usado como trabalho de conclusão de curso de Ciência da computação.
